@@ -4,4 +4,9 @@ def my_function():
 def add(a, b):
     return a + b
 
-print(add(2, 3))  # 5
+print(add(2, 3)) """ this is a subtraction function """
+
+def subtract(a, b):
+    return a + b
+
+print(subtract(1, 2)) 
